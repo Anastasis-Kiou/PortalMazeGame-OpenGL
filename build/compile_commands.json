@@ -1,0 +1,188 @@
+[
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/main.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/main.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/main.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/main.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/RigidBody.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/RigidBody.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/RigidBody.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/RigidBody.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/avatar.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/avatar.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/avatar.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/avatar.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/BoundingBox.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/BoundingBox.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/BoundingBox.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/BoundingBox.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/portalgun.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/portalgun.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/portalgun.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/portalgun.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/Portal.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/Portal.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/PortalMazeCmake/Portal.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/PortalMazeCmake/Portal.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/util.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/util.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/util.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/util.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/shader.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/shader.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/shader.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/shader.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/camera.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/camera.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/camera.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/camera.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/model.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/model.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/model.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/model.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/texture.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/texture.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/texture.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/texture.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glm-0.9.7.1 -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyobjloader/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/. -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/PortalMazeCmake.dir/common/light.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/common/light.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/common/light.cpp",
+  "output": "CMakeFiles/PortalMazeCmake.dir/common/light.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/src/glew.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/src/glew.c",
+  "output": "external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/include  -std=c++11 -stdlib=libc++ -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/TINYXML2.dir/tinyxml2/src/tinyxml2.cpp.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/src/tinyxml2.cpp",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/tinyxml2/src/tinyxml2.cpp",
+  "output": "external/CMakeFiles/TINYXML2.dir/tinyxml2/src/tinyxml2.cpp.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/context.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/context.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/context.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/init.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/init.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/init.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/input.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/input.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/input.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/monitor.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/monitor.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/vulkan.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/vulkan.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/window.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/window.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/window.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_init.m",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_init.m",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_joystick.m",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_joystick.m",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_monitor.m",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_monitor.m",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_window.m",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_window.m",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_time.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/cocoa_time.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/posix_tls.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/posix_tls.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/posix_tls.c",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/posix_tls.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src -I/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/glfw-3.2.1/src  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fPIC -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/nsgl_context.m",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/src/nsgl_context.m",
+  "output": "external/glfw-3.2.1/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/SOIL.dir/src/SOIL.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/SOIL.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/SOIL.c",
+  "output": "external/Simple-OpenGL-Image-Library/CMakeFiles/SOIL.dir/src/SOIL.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/SOIL.dir/src/image_DXT.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/image_DXT.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/image_DXT.c",
+  "output": "external/Simple-OpenGL-Image-Library/CMakeFiles/SOIL.dir/src/image_DXT.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/SOIL.dir/src/image_helper.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/image_helper.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/image_helper.c",
+  "output": "external/Simple-OpenGL-Image-Library/CMakeFiles/SOIL.dir/src/image_helper.c.o"
+},
+{
+  "directory": "/Users/anastasiskiout/Documents/PortalMazeCmake/build/external/Simple-OpenGL-Image-Library",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glfw-3.2.1/include/GLFW -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/glew-1.13.0/include -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -I/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/SOIL.dir/src/stb_image_aug.c.o -c /Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c",
+  "file": "/Users/anastasiskiout/Documents/PortalMazeCmake/external/Simple-OpenGL-Image-Library/src/stb_image_aug.c",
+  "output": "external/Simple-OpenGL-Image-Library/CMakeFiles/SOIL.dir/src/stb_image_aug.c.o"
+}
+]

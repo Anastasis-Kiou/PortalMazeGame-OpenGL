@@ -1,0 +1,30 @@
+#version 330 core
+
+in vec4 vertex_position_cameraspace;
+in vec4 vertex_normal_cameraspace;
+in vec4 light_position_cameraspace;
+in vec2 vertex_UV;
+in vec4 vertex_position_lightspace;
+
+
+uniform sampler2D shadowMapSampler;
+
+uniform sampler2D diffuseColorSampler;
+uniform sampler2D specularColorSampler;
+
+uniform sampler2D portalTextureSampler;
+
+out vec4 fragmentColor;
+
+
+void main() {
+
+    vec2 uv = vec2(1.0-vertex_UV.x, vertex_UV.y);
+
+    vec4 color = vec4(texture(diffuseColorSampler, uv).rgb, 1.0);
+    
+	fragmentColor = color;
+
+}
+
+
